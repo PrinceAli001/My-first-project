@@ -45,13 +45,12 @@ a{
 .dotted{
     opacity: 1;
 }
-#Search{
-    margin-top: 6px;
-    width: 18px;
-    height: 18px;
-    margin-left: 16px;
-}
- a:hover{
+a:hover{
     opacity: 0.8;
 }
+i{
+    margin-left: 16px;
+    color: rgb(217, 237, 252);
+}
+
 /**End of desktop view**/
