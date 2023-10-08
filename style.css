@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+}
+header .navbar{
+    background:#022d62;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+img{
+    height: 64px;
+    width: 70px;
+    margin-left: 12px;
+    color: #022d62;
+}
+#first a{
+    margin-left: 167px;
+    color: rgb(217, 237, 252);
+    opacity: 1;
+}
+p{
+    margin-left: 16px;
+    font-size: 15.2px;
+    font-family: Helvetica,sans-serif;
+}
+a{
+    text-decoration: none;
+    color: rgb(217, 237, 252);
+    opacity: 0.6;
+    font-weight: 400;
+}
+.dot{
+    background-color: #b61f24;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    margin-left: 5px;
+    margin-right: 14px;
+}
+#second{
+    margin-left: 2px;
+}
+.dotted{
+    opacity: 1;
+}
+#Search{
+    margin-top: 6px;
+    width: 18px;
+    height: 18px;
+    margin-left: 16px;
+}
+ a:hover{
+    opacity: 0.8;
+}
+/**End of desktop view**/
